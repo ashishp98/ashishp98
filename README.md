@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashishp98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ashish Pal
+- 👀 I’m interested in Knowledge Graph, Data Engineering & DevOps projects
+- 🌱 I’m currently learning Knowledge Graph, LLM, Data Engineering
+- 💞️ I’m looking to collaborate on Knowledge Graph + LLM, Data Engineering
+- 📫 Reach me via [Linkedin](https://www.linkedin.com/in/ashish-pal-9800/)
 
 <!---
 ashishp98/ashishp98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
